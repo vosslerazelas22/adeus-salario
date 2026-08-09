@@ -1,0 +1,6 @@
+{
+  "name": "Adeus Salário",
+  "description": "Aplicativo para controle de gastos compartilhados da casa em BRL (R$) com sincronização em tempo real e análise por períodos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
