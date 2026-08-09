@@ -13,6 +13,7 @@ export default defineConfig(() => {
       VitePWA({
         registerType: 'autoUpdate',
         manifest: {
+          id: '/adeus-salario/',
           name: 'Adeus Salário',
           short_name: 'Adeus Salário',
           start_url: '/adeus-salario/',
