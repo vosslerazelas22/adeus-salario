@@ -15,8 +15,8 @@ export default defineConfig(() => {
         manifest: {
           name: 'Adeus Salário',
           short_name: 'Adeus Salário',
-          start_url: '/adeus-salario/',
-          scope: '/adeus-salario/',
+          start_url: './adeus-salario/',
+          scope: './adeus-salario/',
           description: 'Controle e acompanhe os gastos da casa.',
           theme_color: '#0f172a',
           background_color: '#0f172a',
