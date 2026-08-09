@@ -1,0 +1,25 @@
+{
+  "short_name": "Adeus Salário",
+  "name": "Adeus Salário",
+  "description": "Controle de gastos compartilhados da casa com sincronização em tempo real",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#0f172a",
+  "theme_color": "#10b981",
+  "display": "standalone",
+  "orientation": "portrait",
+  "categories": ["finance", "utilities", "productivity"]
+}
